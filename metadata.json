@@ -1,0 +1,6 @@
+{
+  "name": "Lumina AI Terminal",
+  "description": "A technical, specialist AI assistant terminal powered by Gemini 3 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
