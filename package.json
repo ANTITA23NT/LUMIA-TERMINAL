@@ -14,6 +14,7 @@
     "@ai-sdk/google": "^3.0.68",
     "@ai-sdk/react": "^3.0.177",
     "@google/genai": "^1.29.0",
+    "@google/generative-ai": "^0.24.1",
     "@tailwindcss/vite": "^4.1.14",
     "@vitejs/plugin-react": "^5.0.4",
     "ai": "^6.0.175",
